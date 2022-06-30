@@ -1,3 +1,4 @@
+#coucou
 utils::globalVariables(c("time", "intensity", "sd", "filter","cps","x","z",
                          "intensities","timeC","files"))
 
